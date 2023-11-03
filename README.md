@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Henrique Senchuka, and I'm a Front-End developer. <br>
+My name is Henrique Senchuka, and I'm a Front-End developer (HTML - CSS - JAVASCRIPT). <br>
 I am passionated about learning and improving at whatever thing I start to do.
 
 You can reach me by my [Linked-In!](https://www.linkedin.com/in/henrique-senchuka-3a40b8277/) <br>
